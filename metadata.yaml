@@ -33,6 +33,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Ramalho_Ortigão
     - http://en.wikipedia.org/wiki/Ramalho_Ortigão
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20574#O-Mysterio-da-Estrada-de-Cintra.-Cartas-ao-Di-rio-de-Noticias
 edition_note: Terceira Edição emendada e precedida d'um Prefacio
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2007-02-12'
