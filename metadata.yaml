@@ -1,0 +1,57 @@
+_repo: O-Mysterio-da-Estrada-de-Cintra.-Cartas-ao-Di-rio-de-Noticias_20574
+_version: 0.1.0
+alternative_title: O Mistério da Estrada de Sintra. Cartas ao Diário de Notícias
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Queirós, Eça de
+    aliases:
+    - Queirós, José Maria Eça de
+    - Queiroz, Eça de
+    - Queiroz, José Maria Eça de
+    - Queiroz, Eca de
+    - Queiros, Jose Maria Eca de
+    - Queiroz, Jose Maria Eca de
+    birthdate: 1845
+    deathdate: 1900
+    gutenberg_agent_id: '4852'
+    url: http://www.gutenberg.org/2009/agents/4852
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jos%C3%A9_Maria_E%C3%A7a_de_Queiroz
+    - http://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
+  - agent_name: Ortigão, José Duarte Ramalho
+    aliases:
+    - Ortigao, Jose Duarte Ramalho
+    - Ortigão, Ramalho
+    birthdate: 1836
+    deathdate: 1915
+    gutenberg_agent_id: '4827'
+    url: http://www.gutenberg.org/2009/agents/4827
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Ramalho_Ortigão
+    - http://en.wikipedia.org/wiki/Ramalho_Ortigão
+description: ''
+edition_note: Terceira Edição emendada e precedida d'um Prefacio
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2007-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20574'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano (This file was produced from\r\nimages\
+  \ generously made available by National Library of\r\nPortugal (Biblioteca Nacional\
+  \ de Portugal).)"
+publication_note: "Lisboa:\r\nLivraria de Antonio Maria Pereira, Editor\r\n50--Rua\
+  \ Augusta--54\r\nTypographia e Stereotypia Moderna\r\n11--Apostolos--1.^o\r\n1894"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Collecção Antonio Maria Pereira
+subjects:
+- !lcsh 'Detective and mystery stories, Portuguese'
+- !lcc 'PQ'
+title: O Mysterio da Estrada de Cintra. Cartas ao Diário de Noticias
+url: http://www.gutenberg.org/ebooks/20574
